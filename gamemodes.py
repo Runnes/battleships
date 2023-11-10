@@ -1,5 +1,5 @@
 
-from playsound import playsound
+import playsound
 import sysconfig
 import time
 import sounds
